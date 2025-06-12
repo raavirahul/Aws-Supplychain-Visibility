@@ -1,4 +1,4 @@
-# Aws-Project2
+# Aws-Supply chain visibility
 Description
 Developed supply chain analytics platform to enhance inventory visibility, optimize logistics and improve demand forecasting.
 Implementation
