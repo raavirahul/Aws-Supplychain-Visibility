@@ -1,5 +1,6 @@
 # Aws-Supply chain visibility
 Description
+
 Developed supply chain analytics platform to enhance inventory visibility, optimize logistics and improve demand forecasting.
 Implementation
 Designed a medallion archirecture(Bronze, Silve, Gold layers) for structure data processing and anlytics
